@@ -1,0 +1,19 @@
+/* js */
+
+.apparait {
+    animation: nav 2s forwards;
+}
+
+.disparait {
+    animation: opacityNone 1.5s backwards;
+}
+
+.change {
+    background-color: var(--primary);
+    position: relative;
+    z-index: 100;
+    padding: 60px 0;
+    transition: 0.5s all;
+}
+
+

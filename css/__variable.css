@@ -1,0 +1,17 @@
+@import url(../css/__fonts.css);
+
+:root {
+    --text: #F3F1EE;
+    --background: #031335;
+    --primary: #F3F1EE;
+    --secondary: #0F1C2E;
+    --accent: #4A9B2C;
+
+    --fontTitleRegular : 'Poppins-Regular', sans-serif;
+    --fontTitleMedium : 'Poppins-Medium', sans-serif;
+    --fontTitleBold : 'Poppins-Bold', sans-serif;
+    --fontTxt : 'Preahvihear-Regular', sans-serif;
+}
+
+
+

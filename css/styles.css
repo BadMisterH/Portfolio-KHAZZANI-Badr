@@ -1,7 +1,7 @@
 @import url("../css/variable.css");
-@import url("../css/__keyframes.css");
-@import url("../css/__media-queries.css");
-@import url("../css/__js.css");
+@import url("../css/keyframes.css");
+@import url("../css/media-queries.css");
+@import url("../css/js.css");
 
 * {
     margin: 0;

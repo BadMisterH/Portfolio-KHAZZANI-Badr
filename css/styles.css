@@ -99,6 +99,10 @@ header svg {
     margin-top: 10px;
 }
 
+.section-deux {
+    position : relatif;
+    z-index : 99999;
+}
 
 #scroll-progress {
     position: fixed;

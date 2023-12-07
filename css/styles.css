@@ -417,7 +417,7 @@ video {
     z-index: 100;
     backdrop-filter: blur(3.5px);
     -webkit-backdrop-filter: blur(3.5px);
-    background-color: rgba(32, 29, 29, 0.3);
+    background: linear-gradient(180deg, #49494978 20%, transparent);
     backdrop-filter: blur(5px);
     overflow: hidden;
 }
